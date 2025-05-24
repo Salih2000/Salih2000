@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Salih Abdullah Kilic</h1>
-<h3 align="center">Hello There, I'm Salih and I consider myself as a person who believes and attaches importance to the game-changing power of data, data analytics, and data-driven solutions and I want to develop my future in this direction.</h3>
+<h1 align="center">Hello There 👋, I'm Salih Abdullah Kilic</h1>
+<h3 align="center"> I’m actively working on projects involving data, data analytics, and primarily data management, where I take part in building and maintaining reliable data systems and meet real business needs. My work focuses on ensuring data quality, accessibility, and structure to improve operations and support data-driven decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salih2000&label=Profile%20views&color=0e75b6&style=flat" alt="salih2000" /> </p>
 
