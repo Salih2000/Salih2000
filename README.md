@@ -5,7 +5,7 @@
   <a href="https://salihkilic.net"><img src="https://img.shields.io/badge/Website-salihkilic.net-1f6feb?style=flat-square" alt="Website: salihkilic.net"></a>
   <a href="https://www.linkedin.com/in/salih-abdullah-kilic"><img src="https://img.shields.io/badge/LinkedIn-salih--abdullah--kilic-0A66C2?style=flat-square" alt="LinkedIn"></a>
   <a href="https://medium.com/@salihabdullahkilic"><img src="https://img.shields.io/badge/Medium-@salihabdullahkilic-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://x.com/salihabkilic"><img src="https://img.shields.io/badge/X-@salihabkilic-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/salihkilicnet"><img src="https://img.shields.io/badge/X-@salihkilicnet-000000?style=flat-square&logo=x&logoColor=white" alt="X: @salihkilicnet"></a>
   <a href="https://www.youtube.com/@salihabdullahkilic"><img src="https://img.shields.io/badge/YouTube-@salihabdullahkilic-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.leetcode.com/salihabdullahkilic"><img src="https://img.shields.io/badge/LeetCode-salihabdullahkilic-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
