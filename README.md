@@ -1,23 +1,51 @@
+<h1 align="center">Hello there, I'm Salih Abdullah Kilic 👋</h1>
+<h3 align="center">Data Management, Data Engineering and SAS Consulting Specialist</h3>
 
-<h1 align="center">Hello There 👋, I'm Salih Abdullah Kilic</h1>
-<h3 align="center"> I’m actively working on projects involving data, data analytics, and primarily data management, where I take part in building and maintaining reliable data systems and meet real business needs. My work focuses on ensuring data quality, accessibility, and structure to improve operations and support data-driven decision-making.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salih2000&label=Profile%20views&color=0e75b6&style=flat" alt="salih2000" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@salihabkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@salihabkilic" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/salih-abdullah-kilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salih abdullah kılıç" height="30" width="40" /></a>
-<a href="https://medium.com/@salihabdullahkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salihabdullahkilic" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salihabdullahkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salihabdullahkilic" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://salihkilic.net"><img src="https://img.shields.io/badge/Website-salihkilic.net-1f6feb?style=flat-square" alt="Website: salihkilic.net"></a>
+  <a href="https://www.linkedin.com/in/salih-abdullah-kilic"><img src="https://img.shields.io/badge/LinkedIn-salih--abdullah--kilic-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://medium.com/@salihabdullahkilic"><img src="https://img.shields.io/badge/Medium-@salihabdullahkilic-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://x.com/salihabkilic"><img src="https://img.shields.io/badge/X-@salihabkilic-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@salihabdullahkilic"><img src="https://img.shields.io/badge/YouTube-@salihabdullahkilic-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.leetcode.com/salihabdullahkilic"><img src="https://img.shields.io/badge/LeetCode-salihabdullahkilic-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
-<h3 align="left">Latest blog posts on <a href="https://salihkilic.net">salihkilic.net</a>:</h3>
+I'm Salih, a data management, data engineering and SAS consulting specialist. I actively work on projects involving data, data analytics, and primarily data management, where I take part in building and maintaining reliable data systems and meet real business needs. My work focuses on ensuring data quality, accessibility, and structure to improve operations and support data-driven decision-making. I combine this work with AI technologies to design and develop original solutions for organizations and individuals.
+
+Data Management Assistant Specialist at [Sade.AI](https://www.sade.ai/).
+
+### What I do
+
+- I take part in SAS migration and modernization projects from SAS 9.4 and SAS Viya 3.5 to SAS Viya 4.
+- I develop and tune SQL and ETL processes on Oracle, Hadoop and Vertica, and work on data warehouse transformations.
+- I use AI agents and custom LLM assistants in this work, without sharing company data.
+
+### Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SAS-Viya%20%7C%209.4-0766D1?style=flat-square" alt="SAS Viya and SAS 9.4">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Oracle-SQL%20%7C%20PL%2FSQL-F80000?style=flat-square" alt="Oracle SQL and PL/SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop">
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive">
+  <img src="https://img.shields.io/badge/Vertica-3B4A5A?style=flat-square" alt="Vertica">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/AI--driven%20development-6E40C9?style=flat-square" alt="AI-driven development">
+</p>
+
+### Latest blog posts on [salihkilic.net](https://salihkilic.net)
 
 <!-- BLOG-POST-LIST:START -->
 - [Replacing MinIO: open source is a license, not a promise](https://salihkilic.net/blog/2026/replacing-minio/)
 - [Why I moved my site from React.js to Jekyll](https://salihkilic.net/blog/2026/neden-jekyll-tasidim/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=salih2000&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"></p>
